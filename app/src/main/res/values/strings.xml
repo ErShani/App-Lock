@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">App Lock</string>
+    <string name="hint_up">Up</string>
+    <string name="hint_down">Down</string>
+    <string name="hint_yes">Yes</string>
+    <string name="hint_no">No</string>
+    <string name="hint_ok">Ok</string>
+    <string name="hint_cancel">Cancel</string>
+    <string name="hint_submit">Submit</string>
 </resources>
